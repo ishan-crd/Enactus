@@ -23,7 +23,7 @@ export const Home = (): JSX.Element => {
         >
           <div className="text-center max-w-6xl mx-auto">
             <h1 className="font-['Julius_Sans_One',Helvetica] font-normal text-white text-4xl md:text-5xl lg:text-6xl xl:text-7xl leading-tight mb-4 tracking-wide">
-              A HEART FOR BUSINESS.
+              A HEAD FOR BUSINESS.
             </h1>
             <h1 className="font-['Julius_Sans_One',Helvetica] font-normal text-white text-4xl md:text-5xl lg:text-6xl xl:text-7xl leading-tight tracking-wide">
               A HEART FOR THE WORLD.
